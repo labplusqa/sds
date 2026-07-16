@@ -25,7 +25,7 @@ export function WelcomeHero() {
         />
         <Form singleLine>
           <Input aria-label="Email address" placeholder="you@example.com" />
-          <Button onPress={() => {}} variant="neutral">
+          <Button onPress={() => {}} variant="neutral" className="red-button-text">
             Get updates
           </Button>
         </Form>
