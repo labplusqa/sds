@@ -20,6 +20,7 @@ export function WelcomeHero() {
       >
         <TextContentTitle
           align="center"
+          className="welcome-hero-heading"
           title="Welcome Home"
           subtitle={<>We're happy to have&nbsp;you.</>}
         />
