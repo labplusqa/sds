@@ -50,6 +50,10 @@ body {
   width: 100%;
 }
 
+* {
+  font-style: italic !important;
+}
+
 body,
 button,
 textarea,
